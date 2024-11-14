@@ -1,0 +1,1 @@
+from .FaturaApp import FaturaApp
